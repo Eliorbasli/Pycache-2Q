@@ -1,0 +1,5 @@
+SECOND = 1
+
+BYTE = 1024
+KB_8 = 8 * BYTE
+KB_64 = 64 * BYTE
